@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPS 课程报告排版与验收"
+  short_description: "在 WPS 排版手稿、公式和手绘图，逐项验收后导出提交版 PDF"
+  default_prompt: "请用 $wps-coursework-report 对照作业说明排版我的手稿和手绘图，先给我可编辑的 Word 核查。"
